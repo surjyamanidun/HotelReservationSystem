@@ -5,12 +5,11 @@ import org.junit.Test;
 
 /**
  * Class for test case
- * @author Surjyamani Dwan
+ * @author Surjyamani Duan
  *
  */
 public class HotelReservationTest {
     HotelReservationSystem hotelReservation = new HotelReservationSystem();
-
     @Test
     public void addedHotel() {
         

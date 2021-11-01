@@ -1,11 +1,11 @@
 package hotelReservationSystem;
 import java.util.ArrayList;
 import java.util.List;
+
 /**
  * Purpose  - To build a Hotel Reservation System
- *
+ *@author Surjyamani Duan
  * */
-
 public class HotelReservationSystem {
      List<Hotel> hotels = new ArrayList<Hotel>();
      /**
